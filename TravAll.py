@@ -64,7 +64,7 @@ class TravelInstance:
 
 
     def GetFromOlaAPI(self):
-      # this function mimics the use of the Ola API. This cold be easily extended to other cab services like Uber(Uber API). 
+      # this function mimics the use of the Ola API. This could be easily extended to other cab services like Uber(Uber API). 
       taxiOla = []
       taxiOla.append('')
       taxiOla.append({1:[1, 2, 10, 95]})
