@@ -14,6 +14,6 @@ In my implementation, I have considered 6 different modes of transport -
 1. Railways,
 2. Buses,
 3. Private Vehicle - 4 wheeler,
-4. Private Vehicle - 3 Wheeler,
+4. Private Vehicle - 2 Wheeler,
 5. Cabs/Auto and
 6. Walking. 
