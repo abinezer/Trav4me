@@ -8,12 +8,6 @@ While many countries, and cities in particular, are finding their way during the
 
 Many of us are unaware of when public transport is safe to use and when it isn’t. We don't know when social distance is practiced (i.e when the population density is less) and we don't know when social distance isn’t practiced (i.e when population density is high). While paying for a cab or auto or using a private vehicle for a couple of days a week may be alright, it may not be a feasible daily option for everybody. Hence, monetary cost, duration of travel and more importantly - risk of infection come out as the 3 most important factors while choosing a mode of transport. 
 
-  
-
-
-
-
-As seen in the above data, public transportation has taken a major plunge in ridership and is also one of the most uncomfortable options for travel for most people. As a student, studying computers at college, I want to be a part of the solution to revive transportation in the city and empower people to use transport in a safe and reliable way. 
 
 
 Problem Solution
@@ -28,10 +22,7 @@ ROI - Risk of Infection
 User enters source and destination points
 
 
-
 The interface that greets the user would be much similar to Google Maps, Ola or Uber - a prompt for the user to enter their starting point and destination point. As a minor upgrade, the map in the background could show live traffic data, as well as areas with a high risk of infection in specific colour coding, like red for areas with a high risk of infection , and a green colour for areas with a low risk of infection. The maps could be easily incorporated into the application using the Google Maps SDK. 
-
-
 
 
 
@@ -46,13 +37,6 @@ Ola(or any other ride-hailing service) auto ride estimate - Ola API
 Ola cab ride availability - Ola API
 Cost of the ride - Ola API
 
-The incorporation of APIs from other ride hailing services like Uber can be easily accomplished. Here Ola is used only for the purpose of demonstration. 
-
-A sample of the parameters of the Ola API which could be used in our application to get the ride availability details - estimated time of arrival, cost of the ride etc can be found here. 
-
-A sample response of Gmaps API response message which includes the parameters that we would need can be found here.
- 
-Below is a screenshot of a heatmap based on population density in Google maps which can be obtained from the GMaps API. 
 
 
 
@@ -112,22 +96,9 @@ After the user has selected their choice, we then display the travel flow summar
 
 
 
-
-
-
-The interface would be similar to that on the left i.e the same way transitions between different modes of transport are displayed in google maps. 
- 
-
-
-
-
-
-
-
 Start guided navigation at starting point
 
 After the user clicks the start button, the assistant will then start the guided navigation just like how google maps works.  
-
 
 
 Scope for Improvement and Conclusion 
