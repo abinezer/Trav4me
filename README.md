@@ -123,7 +123,7 @@ A basic implementation - the prototype of the model can be found on my github he
 
 
 
-# Trav4me
+# TravAll
 A basic prototype of a Transportation Model - Post pandemic. 
 
 The inspiration for this prototype is based on this paper - https://arxiv.org/pdf/2012.15749.pdf
